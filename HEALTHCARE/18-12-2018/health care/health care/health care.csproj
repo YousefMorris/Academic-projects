@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A28F7B2-44DD-4DB7-9581-EB84E216FAC1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>health_care</RootNamespace>
+    <AssemblyName>health care</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choose.Designer.cs">
+      <DependentUpon>choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="create doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="create doctor.Designer.cs">
+      <DependentUpon>create doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createpatient.Designer.cs">
+      <DependentUpon>createpatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emergency case.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emergency case.Designer.cs">
+      <DependentUpon>emergency case.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patient control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patient control.Designer.cs">
+      <DependentUpon>patient control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doctor control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctor control.Designer.cs">
+      <DependentUpon>doctor control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin control.Designer.cs">
+      <DependentUpon>admin control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="log in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log in.Designer.cs">
+      <DependentUpon>log in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patient requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patient requests.Designer.cs">
+      <DependentUpon>patient requests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reply.Designer.cs">
+      <DependentUpon>reply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update work hours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update work hours.Designer.cs">
+      <DependentUpon>update work hours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view appointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view appointments.Designer.cs">
+      <DependentUpon>view appointments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view ECS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view ECS.Designer.cs">
+      <DependentUpon>view ECS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view patients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view patients.Designer.cs">
+      <DependentUpon>view patients.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="choose.resx">
+      <DependentUpon>choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="create doctor.resx">
+      <DependentUpon>create doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createpatient.resx">
+      <DependentUpon>createpatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emergency case.resx">
+      <DependentUpon>emergency case.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patient control.resx">
+      <DependentUpon>patient control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctor control.resx">
+      <DependentUpon>doctor control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin control.resx">
+      <DependentUpon>admin control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log in.resx">
+      <DependentUpon>log in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patient requests.resx">
+      <DependentUpon>patient requests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reply.resx">
+      <DependentUpon>reply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update work hours.resx">
+      <DependentUpon>update work hours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view appointments.resx">
+      <DependentUpon>view appointments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view ECS.resx">
+      <DependentUpon>view ECS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view patients.resx">
+      <DependentUpon>view patients.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\health-care-generic-11vn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mano-medico-estetoscopio-sobre-fondo-blanco-estetoscopio_35024-16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\201807271154431903455493hjk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

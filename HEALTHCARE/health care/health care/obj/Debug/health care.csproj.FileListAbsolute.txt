@@ -1,0 +1,243 @@
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\bin\Debug\health care.exe.config
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\bin\Debug\health care.exe
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\bin\Debug\health care.pdb
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health_care.create_doctor.resources
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health_care.Form1.resources
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health care.exe
+c:\users\jesus\documents\visual studio 2013\Projects\health care\health care\obj\Debug\health care.pdb
+F:\material\IS\project\koky code\health care\health care\bin\Debug\health care.exe.config
+F:\material\IS\project\koky code\health care\health care\bin\Debug\health care.exe
+F:\material\IS\project\koky code\health care\health care\bin\Debug\health care.pdb
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.create_doctor.resources
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health care.exe
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health care.pdb
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.create_patient.resources
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.logIN_form.resources
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.choose.resources
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.emergency_case.resources
+F:\material\IS\project\koky code\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\bin\Debug\health care.exe.config
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health care.exe
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health care.pdb
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\bin\Debug\health care.exe
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\bin\Debug\health care.pdb
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\youssefmorris\Desktop\New folder\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\morris\New folder\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\morris\New folder\health care\health care\bin\Debug\health care.pdb
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\morris\New folder\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\12-10-2018\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\12-10-2018\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\12-10-2018\health care\health care\bin\Debug\health care.pdb
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\12-10-2018\health care\health care\obj\Debug\health_care.select_doctor.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\12-12-2018\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\12-12-2018\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\12-12-2018n\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\12-12-2018n\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\12-12-2018n\health care\health care\bin\Debug\health care.pdb
+C:\Users\user\Desktop\12-12-2018n\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\12-13-2018\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\12-13-2018\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\12-13-2018\health care\health care\bin\Debug\health care.pdb
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\12-13-2018\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+F:\koky\12-14-2018\health care\health care\bin\Debug\health care.exe.config
+F:\koky\12-14-2018\health care\health care\obj\Debug\health care.exe
+F:\koky\12-14-2018\health care\health care\obj\Debug\health care.pdb
+F:\koky\e.c12-14-2018\health care\health care\bin\Debug\health care.exe.config
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health care.exe
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health care.pdb
+F:\koky\e.c12-14-2018\health care\health care\bin\Debug\health care.exe
+F:\koky\e.c12-14-2018\health care\health care\bin\Debug\health care.pdb
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.choose.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.create_doctor.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.create_patient.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.emergency_case.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.view_patient.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.doctor_control.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.Admin.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.logIN_form.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.patient_requests.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.reply.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.update_work_hours.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.view_ECS.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health_care.view_patients.resources
+F:\koky\e.c12-14-2018\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\morris update\New folder\e.c12-14-2018\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\morris update\New folder\e.c12-14-2018\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\morris update\New folder\e.c12-14-2018\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\bin\Debug\health care.pdb
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.view_appointments.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\morris update\New folder\16-12-2018\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\bin\Debug\health care.exe.config
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health care.exe
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health care.pdb
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\bin\Debug\health care.exe
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\bin\Debug\health care.pdb
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.view_appointments.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\user\Desktop\morris update\New folder\18-12-2018\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache
+C:\Users\youssefmorris\Desktop\health care\health care\bin\Debug\health care.exe.config
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health care.exe
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health care.pdb
+C:\Users\youssefmorris\Desktop\health care\health care\bin\Debug\health care.exe
+C:\Users\youssefmorris\Desktop\health care\health care\bin\Debug\health care.pdb
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health care.csprojResolveAssemblyReference.cache
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.choose.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.create_doctor.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.create_patient.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.emergency_case.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.view_patient.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.doctor_control.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.Admin.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.logIN_form.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.patient_requests.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.Properties.Resources.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.reply.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.update_work_hours.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.view_appointments.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.view_ECS.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health_care.view_patients.resources
+C:\Users\youssefmorris\Desktop\health care\health care\obj\Debug\health care.csproj.GenerateResource.Cache

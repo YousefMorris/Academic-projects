@@ -1,0 +1,14 @@
+﻿Build started 3/28/2019 7:13:27 PM.
+     1>Project "E:\work for cs\first year\games\Learning (1)\Learning.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Yousef\Documents\Visual Studio 2012\Projects\Learning\sfml\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Menu.cpp Pacman.cpp
+         Pacman.cpp
+     1>e:\work for cs\first year\games\learning (1)\pacman.cpp(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+         Menu.cpp
+     1>e:\work for cs\first year\games\learning (1)\menu.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "E:\work for cs\first year\games\Learning (1)\Learning.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.52
